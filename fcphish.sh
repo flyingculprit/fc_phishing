@@ -1,5 +1,5 @@
 #!/bin/bash
-#fffffffffffffff
+
 # ShellPhish v2.5-Mod
 
 trap 'printf "\n";stop;exit 1' 2
