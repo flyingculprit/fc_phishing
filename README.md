@@ -11,7 +11,7 @@ If you caught 🫵, then we are not responsible...💀
 
 #### #---For Our Boys And Girls---#
 
-Maatikadhinga da...Ushar ah Play pannunga Boys and girls...😂
+Maatikadhinga da...Ushar ah Play pannunga da Boys and girls...😂
 # FlyingCulprit_phishing
 
 Here is the tool for phishing to get the user name and password of your friends Socoal Media Account...😎
