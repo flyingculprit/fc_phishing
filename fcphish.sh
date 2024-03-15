@@ -13,7 +13,7 @@ command -v unzip > /dev/null 2>&1 || { echo >&2 "Unzip is not installed ! Instal
 
 loading() {
 clear
-printf "\e[1;92m"
+printf "\e[1;94m"
 
 printf "\n▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒ Loading ...\n"
 sleep 0.1
